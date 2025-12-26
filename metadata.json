@@ -1,0 +1,5 @@
+{
+  "name": "Sales dashboard",
+  "description": "Интерактивная аналитическая панель для визуализации данных о продажах с Pivot-таблицей и KPI.",
+  "requestFramePermissions": []
+}
